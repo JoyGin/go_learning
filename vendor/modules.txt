@@ -1,0 +1,6 @@
+# github.com/easierway/concurrent_map v1.0.0
+## explicit
+github.com/easierway/concurrent_map
+# github.com/julienschmidt/httprouter v1.3.0
+## explicit; go 1.7
+github.com/julienschmidt/httprouter
